@@ -539,10 +539,7 @@ ul.menu li li:hover li ul, ul.menu li li.sfHover li ul {
 	font-weight:bold;
 	color:#aaa;
 }
-.bg-2 {
-	background:url(../images/footer_bg.png) 1px 3px no-repeat;
-	padding:0 0 0 75px;
-}
+
 .border-1 {
 	background:url(../images/border-1.gif) left 339px repeat-x #fff;
 }
@@ -899,3 +896,5 @@ footer h3 {
     width: 100%;
     z-index: 1;
 }
+
+

@@ -1,0 +1,10 @@
+
+.footeraddress{
+	line-height:15px;
+	padding-top:30px;
+}
+
+.bg-2 {
+	background:url(../images/footer_bg.png) 1px 3px no-repeat;
+	padding:0 0 0 75px;
+}
