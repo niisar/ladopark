@@ -317,7 +317,7 @@ ul.menu li li:hover li ul, ul.menu li li.sfHover li ul {
 }
 .b1 span {
 	display:block;
-	color:#e1a30e;
+	color:#9dcd2e;
 	font-size:50px;
 	font-family: 'Lato', sans-serif;
 	margin:-11px 0 0 -2px;
@@ -352,7 +352,7 @@ ul.menu li li:hover li ul, ul.menu li li.sfHover li ul {
 	background:#fff;
 }
 .b2 span + span {
-	color:#e1a30e;
+	color:#9dcd2e;
 	font-size:65px;
 	margin:-10px 0 0 0;
 }
@@ -607,7 +607,7 @@ ul.menu li li:hover li ul, ul.menu li li.sfHover li ul {
 	line-height:16px;
 	color:#fff;
 	text-transform:uppercase;
-	background:#e1a30e;
+	background:#9dcd2e;
 	width:189px;
 	height:42px;
 	padding-top:8px;
@@ -711,13 +711,13 @@ h5 {
 }
 .title-2 em {
 	text-transform:uppercase;
-	color:#e1a30e;
+	color:#9dcd2e;
 }
 .title-3 {
 	display:block;
 	font-size:24px;
 	line-height:1.2em;
-	color:#e1a30e;
+	color:#9dcd2e;
 	text-transform:uppercase;
 	font-family: 'Lato', sans-serif;
 	letter-spacing:1px;
@@ -734,7 +734,7 @@ h5 {
 	font-family: 'Lato', sans-serif;
 }
 
-.color-1 {color:#e1a30e;}
+.color-1 {color:#9dcd2e;}
 .color-2 {color:#4594e5;}
 .color-3 {color:#155ea9;}
 /******* form's ********/
