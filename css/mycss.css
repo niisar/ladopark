@@ -4,12 +4,12 @@
 	padding-top:30px;
 }
 
-.bg-2 {
+.bg-footer {
 	background:url(../myimg/footer_bg.png) 1px 3px no-repeat;
 	padding:0 0 0px 75px;
 }
 
-.bg-1 {
+.bg-call {
 	background:url(../images/call_bg.png) left top no-repeat;
 	padding:3px 0 0 16px;
 	margin-top:36px;
@@ -18,7 +18,7 @@
 	float: right;
 }
 
-.bg-3 {
+.bg-chat {
 	background:url(../images/call_bg.png) left top no-repeat;
 	padding:3px 0 0 16px;
 	margin-top:36px;
