@@ -524,11 +524,7 @@ ul.menu li li:hover li ul, ul.menu li li.sfHover li ul {
 	color:#252525;
 }
 /*********************************bg's*************************************/
-.bg-1 {
-	background:url(../images/call_bg.png) left top no-repeat;
-	padding:3px 0 0 16px;
-	margin-top:36px;
-}
+
 .bg-1 span {
 	display:block;
 	font-size:13px;

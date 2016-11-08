@@ -8,3 +8,21 @@
 	background:url(../myimg/footer_bg.png) 1px 3px no-repeat;
 	padding:0 0 0px 75px;
 }
+
+.bg-1 {
+	background:url(../images/call_bg.png) left top no-repeat;
+	padding:3px 0 0 16px;
+	margin-top:36px;
+	width: 30px;
+	height: 30px;
+	float: right;
+}
+
+.bg-3 {
+	background:url(../images/call_bg.png) left top no-repeat;
+	padding:3px 0 0 16px;
+	margin-top:36px;
+	width: 30px;
+	height: 30px;
+	float: right;
+}
