@@ -10,3 +10,7 @@
 }
 
 
+.menu>li.spacer { 
+	width: 185px;
+	height: 40px;
+}
